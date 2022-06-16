@@ -1,0 +1,1 @@
+# GET all services and actions from aws documentation
